@@ -1,3 +1,5 @@
+# (c) jose cornado and dan o'brien
+
 #Create database
 CREATE DATABASE `res_security` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
